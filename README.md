@@ -11,3 +11,11 @@ A simple screen saver application. Sprite is bouncing on the edge of the window.
 ### Screenshot
 
 ![alt text](Screenshots/1_ScreenSaver_Screenshot1.PNG)
+
+## 2 Ellipse movement
+
+You can move the ellipse, change its size and make it more ... angular.
+
+### Screenshots
+![alt text](Screenshots/2EllipseMovement_Screenshot1.PNG)
+![alt text](Screenshots/2EllipseMovement_Screenshot2.PNG)
