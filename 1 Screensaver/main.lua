@@ -1,11 +1,13 @@
 function love.load()
+    love.window.setTitle("1 Screensaver")
+
     screenWidth = love.graphics.getWidth()
     screenHeight = love.graphics.getHeight()
 
-    love.window.setMode(screenWidth, screenHeight)
+    --love.window.setMode(screenWidth, screenHeight)
 
     sprites = {}
-    spriteSource = love.graphics.newImage('sprites/HeartWithArrow.png')
+    spriteSource = love.graphics.newImage('HeartWithArrow.png')
     spriteWidth = spriteSource:getWidth()
     spriteHeight = spriteSource:getHeight()
     spriteSpeedBase = 200.0
